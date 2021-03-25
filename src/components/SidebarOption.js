@@ -47,8 +47,6 @@ export default SidebarOption;
 
 const SidebarOptionContainer = styled.div`
 	display: flex;
-
-	display: flex;
 	font-size: 12px;
 	align-items: center;
 	padding-left: 2px;

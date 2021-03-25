@@ -1,5 +1,5 @@
-* body {
-	width: 100%;
+* {
+	margin: 0;
 }
 body {
 	--purple: #3f0f40;
